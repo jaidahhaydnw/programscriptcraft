@@ -1,0 +1,33 @@
+{
+  "name": "programscriptcraft",
+  "version": "1.0.2",
+  "description": "programscriptcraft",
+  "type": "module",
+  "main": "programscriptcraft.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaidahhaydnw/programscriptcraft"
+  },
+  "website": "https://github.com/jaidahhaydnw/programscriptcraft.git",
+  "keywords": [
+    "programscriptcraft"
+  ],
+  "author": "jaidahhaydnw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaidahhaydnw/programscriptcraft/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/jaidahhaydnw/programscriptcraft#readme",
+  "dependencies": {
+    "programcodesavvy": "1.0.2",
+    "codescriptcraft": "1.0.2",
+    "devcodewhisper": "1.0.2"
+  }
+}
